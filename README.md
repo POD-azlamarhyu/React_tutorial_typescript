@@ -49,11 +49,15 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # refactalinge React tutorial
 
 Function Components
+
 Typescript
 
 # enveriments
 
 Mac os catallina
+
 zsh
+
 yarn
+
 --template typescript
